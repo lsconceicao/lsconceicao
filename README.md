@@ -1,16 +1,26 @@
-## Hi there 👋
+# Lucas Santos😊 
 
-<!--
-**Lucasr2c3po/Lucasr2c3po** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Oi, eu sou Lucas, tenho 28 anos e sou estudante de ADS e tenho focado no ecossistema .NET para especialização. 
+Tenho vaga experiência com programação front e Back end, mas procuro desafios para seguir um desenvolvimento continuo. 
+As razões para seguir no ramo de tecnologia se da pela minha grande curiosidade de como tudo acontece por trás das cameras. Entender como a tecnologia conversa é fascinante e enriquecedor, além de ser uma mão na roda para resolver problemas cotidianos... desde trabalhos extremamente manuais até prompts simples (a falta do ponto e virgula rs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se comigo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-b44832192/{:target="_blank"})
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucassantostwo@gmail.com)
+
+## Habilidades
+
+![.Net8](https://img.shields.io/badge/dotnet8-0D1117?style=for-the-badge&logo=dotnet&logoColor=)
+
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
