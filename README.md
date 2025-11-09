@@ -15,7 +15,7 @@ Possuo experiência inicial (Front-end e Back-end) e estou buscando ativamente m
 ---
 
 ### 💡 Foco de Estudo Atual:
-* **Front-end:** JavaScript, TypeScript, Angular, HTML e CSS.
+* **Front-end:** JavaScript, TypeScript, React, HTML e CSS.
 * **Back-end:** C#, ASP.NET, Node.js (Express), SQL.
 
 ---
