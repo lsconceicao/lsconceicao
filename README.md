@@ -36,8 +36,8 @@ Possuo experiência inicial (Front-end e Back-end) e estou buscando ativamente m
 
 ## 📂 Principais Projetos
 
-* **[Calculadora IMC]**: Descrição: Website responsivo e moderno feito com HTML, CSS e JavaScript puro.
-    * **Link:** [Calculadora IMC](https://github.com/lsconceicao/CalculadoraIMC.git)
+* **[Amigo Secreto]**: Descrição: Website responsivo e moderno feito com HTML, CSS e JavaScript puro (Vanilla JS).
+    * **Link:** [Amigo Secreto](https://github.com/lsconceicao/amigosecreto.git)
 
 ---
 
